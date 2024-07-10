@@ -22,3 +22,4 @@ This project involves creating a shell script that reports AWS service usage. Th
     https://docs.aws.amazon.com/cli/latest/reference/
     aws cli install reference 
     https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+c
