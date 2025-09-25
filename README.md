@@ -26,5 +26,5 @@ This project involves creating a shell script that reports AWS service usage. Th
    -- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 
-This README effectively communicates your role in the project, the tools and methods employed, key insights derived, and instructions for potential users or collaborators. Adjust the content as per your specific contributions and project details.
+
 
